@@ -46,6 +46,9 @@ html {
 .navl {
 	position: absolute;
 }
+.mnm{
+        text-decoration: none;	
+}
 .create_btn {
 	background: #18c5fc;
 	box-shadow: -1px 3px 18px #18c5fc;
